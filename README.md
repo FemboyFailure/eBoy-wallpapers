@@ -9,7 +9,7 @@ A small collection of aesthetic eBoy-style wallpapers.
 ## Gallery
 
 <p align="center">
-  <img src="preview/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg" width="300">
+  <img src="preview/https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg" width="300">
   <img src="previe/5DCF79F9-6124-4DBD-925E-E5DEC87CF129.png" width="300">
   <img src="preview/GwSYiJ-XAAAkpWX.jpg" width="300">
 </p>

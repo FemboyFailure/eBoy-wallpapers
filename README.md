@@ -7,3 +7,5 @@ A small collection of aesthetic eBoy-style wallpapers.
 ---
 
 ## Gallery
+
+![image alt](https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/01d35a1a9b91cdcafe85bc9b9db2c1c6.jpg)

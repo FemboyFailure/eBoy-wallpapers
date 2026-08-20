@@ -1,0 +1,37 @@
+name: Update wallpaper gallery
+
+on:
+  push:
+    branches: [main]
+    # Only run when actual wallpaper/image files (or the script itself) change,
+    # so the workflow doesn't loop on its own README commits.
+    paths:
+      - "**/*.png"
+      - "**/*.jpg"
+      - "**/*.jpeg"
+      - "**/*.gif"
+      - "**/*.webp"
+      - "generate_gallery.py"
+
+jobs:
+  update-gallery:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Regenerate gallery
+        run: python generate_gallery.py
+
+      - name: Commit changes if needed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update wallpaper gallery"
+          file_pattern: README.md

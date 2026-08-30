@@ -76,6 +76,13 @@ Wallpapers below are added automatically whenever a new image is pushed to this 
 <tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Minimal-Dark/wallhaven-yqv637.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Minimal-Dark/wallhaven-yqv637.png" width="220" alt="wallhaven-yqv637" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Minimal-Dark/wallhaven-zpyjpg.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Minimal-Dark/wallhaven-zpyjpg.png" width="220" alt="wallhaven-zpyjpg" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Minimal-Dark/zp517o.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Minimal-Dark/zp517o.jpg" width="220" alt="zp517o" /></a></td></tr>
 </table>
 
+### Phone
+
+<table>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Phone/58kr9jcua8751.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Phone/58kr9jcua8751.jpg" width="220" alt="58kr9jcua8751" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Phone/hope-you-all-like-it-v0-bbmbs0pml6n61.webp"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Phone/hope-you-all-like-it-v0-bbmbs0pml6n61.webp" width="220" alt="hope-you-all-like-it-v0-bbmbs0pml6n61" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Phone/qfs9hdfnpwf91.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Phone/qfs9hdfnpwf91.jpg" width="220" alt="qfs9hdfnpwf91" /></a></td></tr>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Phone/yomu-yakadashi-v0-zfdwmy18hbjg1.webp"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Phone/yomu-yakadashi-v0-zfdwmy18hbjg1.webp" width="220" alt="yomu-yakadashi-v0-zfdwmy18hbjg1" /></a></td></tr>
+</table>
+
 ### Tech
 
 <table>

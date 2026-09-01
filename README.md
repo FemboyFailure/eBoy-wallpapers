@@ -25,7 +25,13 @@ Wallpapers below are added automatically whenever a new image is pushed to this 
 ### Astro
 
 <table>
-<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Astro/wallhaven-d8ekmg.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Astro/wallhaven-d8ekmg.png" width="220" alt="wallhaven-d8ekmg" /></a></td></tr>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Astro/minimalist-black-hole.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Astro/minimalist-black-hole.png" width="220" alt="minimalist-black-hole" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Astro/pixel-galaxy.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Astro/pixel-galaxy.png" width="220" alt="pixel-galaxy" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Astro/wallhaven-d8ekmg.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Astro/wallhaven-d8ekmg.png" width="220" alt="wallhaven-d8ekmg" /></a></td></tr>
+</table>
+
+### Catppuccin
+
+<table>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/fox.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/fox.png" width="220" alt="fox" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/sushi.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/sushi.jpg" width="220" alt="sushi" /></a></td></tr>
 </table>
 
 ### Cats-Pets

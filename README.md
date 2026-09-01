@@ -31,7 +31,8 @@ Wallpapers below are added automatically whenever a new image is pushed to this 
 ### Catppuccin
 
 <table>
-<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/fox.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/fox.png" width="220" alt="fox" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/sushi.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/sushi.jpg" width="220" alt="sushi" /></a></td></tr>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/fox.png"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/fox.png" width="220" alt="fox" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/sushi.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/sushi.jpg" width="220" alt="sushi" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/wallhaven-k898gq.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/wallhaven-k898gq.jpg" width="220" alt="wallhaven-k898gq" /></a></td></tr>
+<tr><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/wallhaven-o5jv65.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/wallhaven-o5jv65.jpg" width="220" alt="wallhaven-o5jv65" /></a></td><td><a href="https://github.com/FemboyFailure/eBoy-wallpapers/blob/main/Catppuccin/wallhaven-zyp7jo.jpg"><img src="https://raw.githubusercontent.com/FemboyFailure/eBoy-wallpapers/main/Catppuccin/wallhaven-zyp7jo.jpg" width="220" alt="wallhaven-zyp7jo" /></a></td></tr>
 </table>
 
 ### Cats-Pets
